@@ -14,7 +14,7 @@
 
 ## Background
 
-This repo is intended for any individual wanting to improve their problem
+This repository is intended for any individual wanting to improve their problem
 solving skills for software engineering interviews.
 
 Problems are grouped under their respective subtopic, in order to focus on
